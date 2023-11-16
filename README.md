@@ -9,7 +9,7 @@ Trabalho na Introtech Tecnologia da Informação, onde oferecemos serviços de c
 - 🚀 Desenvolvo ferramentas de automação em Python e JavaScript.
 - 📚 Estudo Pentest.
 
-  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUahQv4NRk2lHy2ZmPs1zOQ)
+  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@abraao-barbosa)
 
 ## Projetos em Destaque
 
